@@ -1,0 +1,17 @@
+{
+    "java.jdt.ls.androidSupport.enabled": "auto",
+    "java.jdt.ls.java.home": "/home/hitalo/.sdkman/candidates/java/current",
+    // "java.jdt.ls.java.home": "/usr/lib/jvm/java-21-openjdk-amd64"
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-23",
+            "path": "/home/hitalo/.sdkman/candidates/java/23-oracle"
+        },
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    },
+    "editor.formatOnSave": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+}
